@@ -16,7 +16,7 @@ A flexible and configurable SSH server implementation in Go that allows you to c
 ## Installation
 
 ```bash
-go get repo.nusatek.id/sugeng/gosh
+go get github.com/wongpinter/gosh
 ```
 
 ## Quick Start
@@ -30,7 +30,7 @@ import (
     "os/signal"
     "syscall"
 
-    "repo.nusatek.id/sugeng/gosh"
+    "github.com/wongpinter/gosh"
 )
 
 func main() {
